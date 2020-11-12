@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom
+20bn-jester-v1
+venv
+datasets
+
 # Distribution / packaging
 .Python
 build/
